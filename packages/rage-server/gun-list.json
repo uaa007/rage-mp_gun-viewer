@@ -1,0 +1,748 @@
+{
+  "Оружие ближнего боя": {
+    "Кулаки": {
+      "id": "WEAPON_UNARMED",
+      "hash": "0xA2719263"
+    },
+    "Кавалерийский кинжал": {
+      "id": "WEAPON_DAGGER",
+      "hash": "0x92A27487"
+    },
+    "Бейсбольная бита": {
+      "id": "WEAPON_BAT",
+      "hash": "0x958A4A8F"
+    },
+    "Бутылка": {
+      "id": "WEAPON_BOTTLE",
+      "hash": "0xF9E6AA4B"
+    },
+    "Фомка": {
+      "id": "WEAPON_CROWBAR",
+      "hash": "0x84BD7BFD"
+    },
+    "Фонарь": {
+      "id": "WEAPON_FLASHLIGHT",
+      "hash": "0x8BB05FD7"
+    },
+    "Клюшка для гольфа": {
+      "id": "WEAPON_GOLFCLUB",
+      "hash": "0x440E4788"
+    },
+    "Молоток": {
+      "id": "WEAPON_HAMMER",
+      "hash": "0x4E875F73"
+    },
+    "Топорик": {
+      "id": "WEAPON_HATCHET",
+      "hash": "0xF9DCBF2D"
+    },
+    "Кастет": {
+      "id": "WEAPON_KNUCKLE",
+      "hash": "0xD8DF3C3C"
+    },
+    "Нож": {
+      "id": "WEAPON_KNIFE",
+      "hash": "0x99B507EA"
+    },
+    "Мачете": {
+      "id": "WEAPON_MACHETE",
+      "hash": "0xDD5DF8D9"
+    },
+    "Выкидной нож": {
+      "id": "WEAPON_SWITCHBLADE",
+      "hash": "0xDFE37640"
+    },
+    "Полицейская дубинка": {
+      "id": "WEAPON_NIGHTSTICK",
+      "hash": "0x678B81B1"
+    },
+    "Разводной ключ": {
+      "id": "WEAPON_WRENCH",
+      "hash": "0x19044EE0"
+    },
+    "Боевой топор": {
+      "id": "WEAPON_BATTLEAXE",
+      "hash": "0xCD274149"
+    },
+    "Кий": {
+      "id": "WEAPON_POOLCUE",
+      "hash": "0x94117305"
+    },
+    "Каменный топор": {
+      "id": "WEAPON_STONE_HATCHET",
+      "hash": "0x3813FC08"
+    },
+    "Шок-дубинка": {
+      "id": "WEAPON_STUNROD",
+      "hash": "0xDAC00025"
+    },
+    "Карамельная трость": {
+      "id": "WEAPON_CANDYCANE",
+      "hash": "0x6589186A"
+    }
+  },
+  "Пистолеты": {
+    "Пистолет": {
+      "id": "WEAPON_PISTOL",
+      "hash": "0x1B06D571"
+    },
+    "Пистолет Mk II": {
+      "id": "WEAPON_PISTOL_MK2",
+      "hash": "0xBFE256D4"
+    },
+    "Боевой пистолет": {
+      "id": "WEAPON_COMBATPISTOL",
+      "hash": "0x5EF9FEC4"
+    },
+    "Бронебойный пистолет": {
+      "id": "WEAPON_APPISTOL",
+      "hash": "0x22D8FE39"
+    },
+    "Шокер": {
+      "id": "WEAPON_STUNGUN",
+      "hash": "0x3656C8C1"
+    },
+    "Пистолет .50": {
+      "id": "WEAPON_PISTOL50",
+      "hash": "0x99AEEB3B"
+    },
+    "Карманный пистолет": {
+      "id": "WEAPON_SNSPISTOL",
+      "hash": "0xBFD21232"
+    },
+    "Карманный пистолет Mk II": {
+      "id": "WEAPON_SNSPISTOL_MK2",
+      "hash": "0x88374054"
+    },
+    "Тяжелый пистолет": {
+      "id": "WEAPON_HEAVYPISTOL",
+      "hash": "0xD205520E"
+    },
+    "Винтажный пистолет": {
+      "id": "WEAPON_VINTAGEPISTOL",
+      "hash": "0x83839C4"
+    },
+    "Сигнальный пистолет": {
+      "id": "WEAPON_FLAREGUN",
+      "hash": "0x47757124"
+    },
+    "Пистоль": {
+      "id": "WEAPON_MARKSMANPISTOL",
+      "hash": "0xDC4DB296"
+    },
+    "Тяжелый револьвер": {
+      "id": "WEAPON_REVOLVER",
+      "hash": "0xC1B3C3D1"
+    },
+    "Тяжелый револьвер Mk II": {
+      "id": "WEAPON_REVOLVER_MK2",
+      "hash": "0xCB96392F"
+    },
+    "Самовзводный револьвер": {
+      "id": "WEAPON_DOUBLEACTION",
+      "hash": "0x97EA20B8"
+    },
+    "Up-n-Atom-изатор": {
+      "id": "WEAPON_RAYPISTOL",
+      "hash": "0xAF3696A1"
+    },
+    "Керамический пистолет": {
+      "id": "WEAPON_CERAMICPISTOL",
+      "hash": "0x2B5EF5EC"
+    },
+    "Флотский револьвер": {
+      "id": "WEAPON_NAVYREVOLVER",
+      "hash": "0x917F6C8C"
+    },
+    "Пистолет WM 29": {
+      "id": "WEAPON_PISTOLXM3",
+      "hash": "0x1BC4FDB9"
+    },
+    "Шокер DLC": {
+      "id": "WEAPON_STUNGUN_MP",
+      "hash": "0x45CD9CF3"
+    },
+    "Пистолет Перико": {
+      "id": "WEAPON_GADGETPISTOL",
+      "hash": "0x57A4368C"
+    }
+  },
+  "Пистолеты-пулеметы": {
+    "Микро-ПП": {
+      "id": "WEAPON_MICROSMG",
+      "hash": "0x13532244"
+    },
+    "ПП": {
+      "id": "WEAPON_SMG",
+      "hash": "0x2BE6766B"
+    },
+    "ПП Mk II": {
+      "id": "WEAPON_SMG_MK2",
+      "hash": "0x78A97CD0"
+    },
+    "Штурмовой ПП": {
+      "id": "WEAPON_ASSAULTSMG",
+      "hash": "0xEFE7E2DF"
+    },
+    "ПОС": {
+      "id": "WEAPON_COMBATPDW",
+      "hash": "0xA3D4D34"
+    },
+    "Малый ПП": {
+      "id": "WEAPON_MACHINEPISTOL",
+      "hash": "0xDB1AA450"
+    },
+    "Мини-ПП": {
+      "id": "WEAPON_MINISMG",
+      "hash": "0xBD248B55"
+    },
+    "Лазерный автомат": {
+      "id": "WEAPON_RAYCARBINE",
+      "hash": "0x476BF155"
+    },
+    "Тактический ПП": {
+      "id": "WEAPON_TECPISTOL",
+      "hash": "0x14E5AFD5"
+    }
+  },
+  "Дробовики": {
+    "Помповый дробовик": {
+      "id": "WEAPON_PUMPSHOTGUN",
+      "hash": "0x1D073A89"
+    },
+    "Помповый дробовик Mk II": {
+      "id": "WEAPON_PUMPSHOTGUN_MK2",
+      "hash": "0x555AF99A"
+    },
+    "Дробовик-обрез": {
+      "id": "WEAPON_SAWNOFFSHOTGUN",
+      "hash": "0x7846A318"
+    },
+    "Штурмовой дробовик": {
+      "id": "WEAPON_ASSAULTSHOTGUN",
+      "hash": "0xE284C527"
+    },
+    "Дробовик-«буллпап»": {
+      "id": "WEAPON_BULLPUPSHOTGUN",
+      "hash": "0x9D61E50F"
+    },
+    "Тяжелый дробовик": {
+      "id": "WEAPON_HEAVYSHOTGUN",
+      "hash": "0x3AABBBAA"
+    },
+    "Двуствольный обрез": {
+      "id": "WEAPON_DBSHOTGUN",
+      "hash": "0xEF951FBB"
+    },
+    "Автоматический дробовик": {
+      "id": "WEAPON_AUTOSHOTGUN",
+      "hash": "0x12E82D3D"
+    },
+    "Боевой дробовик": {
+      "id": "WEAPON_COMBATSHOTGUN",
+      "hash": "0x5A96BA4"
+    }
+  },
+  "Штурмовые винтовки": {
+    "Штурмовая винтовка": {
+      "id": "WEAPON_ASSAULTRIFLE",
+      "hash": "0xBFEFFF6D"
+    },
+    "Штурмовая винтовка Mk II": {
+      "id": "WEAPON_ASSAULTRIFLE_MK2",
+      "hash": "0x394F415C"
+    },
+    "Автоматическая винтовка": {
+      "id": "WEAPON_CARBINERIFLE",
+      "hash": "0x83BF0278"
+    },
+    "Винтовка-автомат Mk II": {
+      "id": "WEAPON_CARBINERIFLE_MK2",
+      "hash": "0xFAD1F1C9"
+    },
+    "Улучшенная винтовка": {
+      "id": "WEAPON_ADVANCEDRIFLE",
+      "hash": "0xAF113F99"
+    },
+    "Особый карабин": {
+      "id": "WEAPON_SPECIALCARBINE",
+      "hash": "0xC0A3098D"
+    },
+    "Особый карабин Mk II": {
+      "id": "WEAPON_SPECIALCARBINE_MK2",
+      "hash": "0x969C3D67"
+    },
+    "Винтовка-«буллпап»": {
+      "id": "WEAPON_BULLPUPRIFLE",
+      "hash": "0x7F229F94"
+    },
+    "Винтовка-«буллпап» Mk II": {
+      "id": "WEAPON_BULLPUPRIFLE_MK2",
+      "hash": "0x84D6FAFD"
+    },
+    "Укороченная винтовка": {
+      "id": "WEAPON_COMPACTRIFLE",
+      "hash": "0x624FE830"
+    },
+    "Табельный карабин": {
+      "id": "WEAPON_TACTICALRIFLE",
+      "hash": "0xD1D5F52B"
+    },
+    "Военная винтовка": {
+      "id": "WEAPON_MILITARYRIFLE",
+      "hash": "0x9D1F17E6"
+    },
+    "Боевая винтовка": {
+      "id": "WEAPON_BATTLERIFLE",
+      "hash": "0x72B66B11"
+    },
+    "Тяжёлая винтовка": {
+      "id": "WEAPON_HEAVYRIFLE",
+      "hash": "0xC78D71B4"
+    }
+  },
+  "Снайперские винтовки": {
+    "Снайперская": {
+      "id": "WEAPON_SNIPERRIFLE",
+      "hash": "0x5FC3C11"
+    },
+    "Тяжелая снайперская": {
+      "id": "WEAPON_HEAVYSNIPER",
+      "hash": "0xC472FE2"
+    },
+    "Тяжелая снайперская Mk II": {
+      "id": "WEAPON_HEAVYSNIPER_MK2",
+      "hash": "0xA914799"
+    },
+    "Высокоточная винтовка": {
+      "id": "WEAPON_MARKSMANRIFLE",
+      "hash": "0xC734385A"
+    },
+    "Высокоточная винтовка Mk II": {
+      "id": "WEAPON_MARKSMANRIFLE_MK2",
+      "hash": "0x6A6C02E0"
+    },
+    "Мушкет": {
+      "id": "WEAPON_MUSKET",
+      "hash": "0xA89CB99E"
+    },
+    "Прецизионная винтовка": {
+      "id": "WEAPON_PRECISIONRIFLE",
+      "hash": "0x6E7DDDEC"
+    }
+  },
+  "Пулеметы": {
+    "Пулемет": {
+      "id": "WEAPON_MG",
+      "hash": "0x9D07F764"
+    },
+    "Тяжелый пулемет": {
+      "id": "WEAPON_COMBATMG",
+      "hash": "0x7FD62962"
+    },
+    "Тяжелый пулемет Mk II": {
+      "id": "WEAPON_COMBATMG_MK2",
+      "hash": "0xDBBD7280"
+    },
+    "ПП Гузенберга": {
+      "id": "WEAPON_GUSENBERG",
+      "hash": "0x61012683"
+    }
+  },
+  "Тяжелое оружие": {
+    "РПГ": {
+      "id": "WEAPON_RPG",
+      "hash": "0xB1CA77B1"
+    },
+    "Гранатомет": {
+      "id": "WEAPON_GRENADELAUNCHER",
+      "hash": "0xA284510B"
+    },
+    "Гранатомет (дымовые гранаты)": {
+      "id": "WEAPON_GRENADELAUNCHER_SMOKE",
+      "hash": "0x4DD2DC56"
+    },
+    "Миниган": {
+      "id": "WEAPON_MINIGUN",
+      "hash": "0x42BF8A85"
+    },
+    "Пиротехника": {
+      "id": "WEAPON_FIREWORK",
+      "hash": "0x7F7497E5"
+    },
+    "Рельсотрон": {
+      "id": "WEAPON_RAILGUN",
+      "hash": "0x6D544C99"
+    },
+    "Ракетная установка": {
+      "id": "WEAPON_HOMINGLAUNCHER",
+      "hash": "0x63AB0442"
+    },
+    "Укороченный гранатомёт": {
+      "id": "WEAPON_COMPACTLAUNCHER",
+      "hash": "0x781FE4A"
+    },
+    "Плазмотрон": {
+      "id": "WEAPON_RAYMINIGUN",
+      "hash": "0xB62D1F67"
+    },
+    "Снежкомет": {
+      "id": "WEAPON_SNOWLAUNCHER",
+      "hash": "0x3BF5575"
+    },
+    "Компактный ЭМИ": {
+      "id": "WEAPON_EMPLAUNCHER",
+      "hash": "0xDB26713A"
+    },
+    "Рельсотрон XM3": {
+      "id": "WEAPON_RAILGUNXM3",
+      "hash": "0xFEA23564"
+    }
+  },
+  "Метательное оружие": {
+    "Граната": {
+      "id": "WEAPON_GRENADE",
+      "hash": "0x93E220BD"
+    },
+    "Газ BZ": {
+      "id": "WEAPON_BZGAS",
+      "hash": "0xA0973D5E"
+    },
+    "Газовая шашка": {
+      "id": "WEAPON_SMOKEGRENADE",
+      "hash": "0xFDBC8A50"
+    },
+    "Фальшфейер": {
+      "id": "WEAPON_FLARE",
+      "hash": "0x497FACC3"
+    },
+    "Коктейль Молотова": {
+      "id": "WEAPON_MOLOTOV",
+      "hash": "0x24B17070"
+    },
+    "Бомба-липучка": {
+      "id": "WEAPON_STICKYBOMB",
+      "hash": "0x2C3731D9"
+    },
+    "Неконтактная мина": {
+      "id": "WEAPON_PROXMINE",
+      "hash": "0xAB564B93"
+    },
+    "Снежок": {
+      "id": "WEAPON_SNOWBALL",
+      "hash": "0x787F0BB"
+    },
+    "Самодельная бомба": {
+      "id": "WEAPON_PIPEBOMB",
+      "hash": "0xBA45E8B8"
+    },
+    "Мяч": {
+      "id": "WEAPON_BALL",
+      "hash": "0x23C9F95C"
+    },
+    "Пакет с кислотой": {
+      "id": "WEAPON_ACIDPACKAGE",
+      "hash": "0xF7F1E25E"
+    }
+  },
+  "Разное": {
+    "Канистра": {
+      "id": "WEAPON_PETROLCAN",
+      "hash": "0x34A67B97"
+    },
+    "Канистра с химикатами": {
+      "id": "WEAPON_HAZARDCAN",
+      "hash": "0xBA536372"
+    },
+    "Канистра с удобрениями": {
+      "id": "WEAPON_FERTILIZERCAN",
+      "hash": "0x184140A1"
+    },
+    "Парашют": {
+      "id": "GADGET_PARACHUTE",
+      "hash": "0xFBAB5776"
+    },
+    "Огнетушитель": {
+      "id": "WEAPON_FIREEXTINGUISHER",
+      "hash": "0x60EC506"
+    },
+    "Цифровой сканер": {
+      "id": "WEAPON_DIGISCANNER",
+      "hash": "0xFDBADCED"
+    },
+    "Наручники": {
+      "id": "WEAPON_HANDCUFFS",
+      "hash": "0xD04C944D"
+    },
+    "Мешок для мусора": {
+      "id": "WEAPON_GARBAGEBAG",
+      "hash": "0xE232C28C"
+    },
+    "Пассажирская ракета": {
+      "id": "WEAPON_PASSENGER_ROCKET",
+      "hash": "0x166218FF"
+    },
+    "Кейс": {
+      "id": "WEAPON_BRIEFCASE",
+      "hash": "0x88C78EB7"
+    },
+    "Портфель": {
+      "id": "WEAPON_BRIEFCASE_02",
+      "hash": "0x1B79F17"
+    },
+    "Хакерское устройство": {
+      "id": "WEAPON_HACKINGDEVICE",
+      "hash": "0x1CF5FA48"
+    },
+    "Металлодетектор": {
+      "id": "WEAPON_METALDETECTOR",
+      "hash": "0xDBA2E809"
+    },
+    "РПГ": {
+      "id": "WEAPON_STINGER",
+      "hash": "0x687652CE"
+    }
+  },
+  "Безоружный": {
+    "VEHICLE_WEAPON_TURRET_LIMO": {
+      "id": "VEHICLE_WEAPON_TURRET_LIMO",
+      "hash": "0x2B796481"
+    },
+    "WEAPON_VEHICLE_ROCKET": {
+      "id": "WEAPON_VEHICLE_ROCKET",
+      "hash": "0xBEFDC581"
+    },
+    "WEAPON_TRANQUILIZER": {
+      "id": "WEAPON_TRANQUILIZER",
+      "hash": "0x32A888BD"
+    },
+    "WEAPON_AIRSTRIKE_ROCKET": {
+      "id": "WEAPON_AIRSTRIKE_ROCKET",
+      "hash": "0x13579279"
+    },
+    "WEAPON_BIRD_CRAP": {
+      "id": "WEAPON_BIRD_CRAP",
+      "hash": "0x6D5E2801"
+    },
+    "WEAPON_RABBIT": {
+      "id": "WEAPON_RABBIT",
+      "hash": "0xA687EC07"
+    },
+    "WEAPON_BLEEDING": {
+      "id": "WEAPON_BLEEDING",
+      "hash": "0x8B7333FB"
+    },
+    "WEAPON_ARENA_HOMING_MISSILE": {
+      "id": "WEAPON_ARENA_HOMING_MISSILE",
+      "hash": "0x648A81D0"
+    },
+    "WEAPON_COW": {
+      "id": "WEAPON_COW",
+      "hash": "0x5A2B311"
+    },
+    "VEHICLE_WEAPON_TURRET_VALKYRIE": {
+      "id": "VEHICLE_WEAPON_TURRET_VALKYRIE",
+      "hash": "0xA4513E35"
+    },
+    "WEAPON_HAMMERHEAD_SHARK": {
+      "id": "WEAPON_HAMMERHEAD_SHARK",
+      "hash": "0xB4A915CB"
+    },
+    "OBJECT": {
+      "id": "OBJECT",
+      "hash": "0x39958261"
+    },
+    "VEHICLE_WEAPON_PLAYER_BUZZARD": {
+      "id": "VEHICLE_WEAPON_PLAYER_BUZZARD",
+      "hash": "0x46B89C8E"
+    },
+    "WEAPON_CAT": {
+      "id": "WEAPON_CAT",
+      "hash": "0xE274FF96"
+    },
+    "WEAPON_REMOTESNIPER": {
+      "id": "WEAPON_REMOTESNIPER",
+      "hash": "0x33058E22"
+    },
+    "WEAPON_HEN": {
+      "id": "WEAPON_HEN",
+      "hash": "0x38F8ECBE"
+    },
+    "WEAPON_HELI_CRASH": {
+      "id": "WEAPON_HELI_CRASH",
+      "hash": "0x145F1012"
+    },
+    "VEHICLE_WEAPON_PLAYER_SAVAGE": {
+      "id": "VEHICLE_WEAPON_PLAYER_SAVAGE",
+      "hash": "0x61A31349"
+    },
+    "WEAPON_TIGER_SHARK": {
+      "id": "WEAPON_TIGER_SHARK",
+      "hash": "0x2C51AD11"
+    },
+    "WEAPON_PIG": {
+      "id": "WEAPON_PIG",
+      "hash": "0x47D75EF1"
+    },
+    "WEAPON_DROWNING": {
+      "id": "WEAPON_DROWNING",
+      "hash": "0xFF58C4FB"
+    },
+    "WEAPON_FIRE": {
+      "id": "WEAPON_FIRE",
+      "hash": "0xDF8E89EB"
+    },
+    "WEAPON_KILLER_WHALE": {
+      "id": "WEAPON_KILLER_WHALE",
+      "hash": "0xFA3DDCE5"
+    },
+    "WEAPON_DEER": {
+      "id": "WEAPON_DEER",
+      "hash": "0xF4C67A9E"
+    },
+    "VEHICLE_WEAPON_PLAYER_LASER": {
+      "id": "VEHICLE_WEAPON_PLAYER_LASER",
+      "hash": "0xEFFD014B"
+    },
+    "WEAPON_RAMMED_BY_CAR": {
+      "id": "WEAPON_RAMMED_BY_CAR",
+      "hash": "0x7FC7D7A"
+    },
+    "WEAPON_ANIMAL_RETRIEVER": {
+      "id": "WEAPON_ANIMAL_RETRIEVER",
+      "hash": "0xE5B7DE7A"
+    },
+    "VEHICLE_WEAPON_ENEMY_LASER": {
+      "id": "VEHICLE_WEAPON_ENEMY_LASER",
+      "hash": "0x5D6660AB"
+    },
+    "WEAPON_BARBED_WIRE": {
+      "id": "WEAPON_BARBED_WIRE",
+      "hash": "0x48E7B178"
+    },
+    "WEAPON_COYOTE": {
+      "id": "WEAPON_COYOTE",
+      "hash": "0x453467D1"
+    },
+    "WEAPON_ANIMAL": {
+      "id": "WEAPON_ANIMAL",
+      "hash": "0xF9FBAEBE"
+    },
+    "VEHICLE_WEAPON_TANK": {
+      "id": "VEHICLE_WEAPON_TANK",
+      "hash": "0x73F7C04B"
+    },
+    "WEAPON_AIR_DEFENCE_GUN": {
+      "id": "WEAPON_AIR_DEFENCE_GUN",
+      "hash": "0x2C082D7D"
+    },
+    "VEHICLE_WEAPON_ROTORS": {
+      "id": "VEHICLE_WEAPON_ROTORS",
+      "hash": "0xB1205A4E"
+    },
+    "VEHICLE_WEAPON_CANNON_BLAZER": {
+      "id": "VEHICLE_WEAPON_CANNON_BLAZER",
+      "hash": "0xEBF9FF3E"
+    },
+    "WEAPON_HIT_BY_WATER_CANNON": {
+      "id": "WEAPON_HIT_BY_WATER_CANNON",
+      "hash": "0xCC34325E"
+    },
+    "VEHICLE_WEAPON_PLAYER_LAZER": {
+      "id": "VEHICLE_WEAPON_PLAYER_LAZER",
+      "hash": "0xE2822A29"
+    },
+    "VEHICLE_WEAPON_TURRET_INSURGENT": {
+      "id": "VEHICLE_WEAPON_TURRET_INSURGENT",
+      "hash": "0x44DB5498"
+    },
+    "VEHICLE_WEAPON_PLAYER_HUNTER": {
+      "id": "VEHICLE_WEAPON_PLAYER_HUNTER",
+      "hash": "0x9F1A91DE"
+    },
+    "VEHICLE_WEAPON_RADAR": {
+      "id": "VEHICLE_WEAPON_RADAR",
+      "hash": "0xD276317E"
+    },
+    "VEHICLE_WEAPON_RUINER_ROCKET": {
+      "id": "VEHICLE_WEAPON_RUINER_ROCKET",
+      "hash": "0x50DC6AB"
+    },
+    "WEAPON_SMALL_DOG": {
+      "id": "WEAPON_SMALL_DOG",
+      "hash": "0xBB8FE23D"
+    },
+    "WEAPON_ARENA_MACHINE_GUN": {
+      "id": "WEAPON_ARENA_MACHINE_GUN",
+      "hash": "0x34FDFF66"
+    },
+    "VEHICLE_WEAPON_SEARCHLIGHT": {
+      "id": "VEHICLE_WEAPON_SEARCHLIGHT",
+      "hash": "0xCDAC517D"
+    },
+    "VEHICLE_WEAPON_SPACE_ROCKET": {
+      "id": "VEHICLE_WEAPON_SPACE_ROCKET",
+      "hash": "0xF8A3939F"
+    },
+    "WEAPON_EXPLOSION": {
+      "id": "WEAPON_EXPLOSION",
+      "hash": "0x2024F4E8"
+    },
+    "VEHICLE_WEAPON_PLANE_ROCKET": {
+      "id": "VEHICLE_WEAPON_PLANE_ROCKET",
+      "hash": "0xCF0896E0"
+    },
+    "WEAPON_FALL": {
+      "id": "WEAPON_FALL",
+      "hash": "0xCDC174B0"
+    },
+    "VEHICLE_WEAPON_RUINER_BULLET": {
+      "id": "VEHICLE_WEAPON_RUINER_BULLET",
+      "hash": "0x2FCC0F9"
+    },
+    "VEHICLE_WEAPON_NOSE_TURRET_VALKYRIE": {
+      "id": "VEHICLE_WEAPON_NOSE_TURRET_VALKYRIE",
+      "hash": "0x4170E491"
+    },
+    "WEAPON_DROWNING_IN_VEHICLE": {
+      "id": "WEAPON_DROWNING_IN_VEHICLE",
+      "hash": "0x736F5990"
+    },
+    "WEAPON_EXHAUSTION": {
+      "id": "WEAPON_EXHAUSTION",
+      "hash": "0x364A29EC"
+    },
+    "VEHICLE_WEAPON_PLAYER_BULLET": {
+      "id": "VEHICLE_WEAPON_PLAYER_BULLET",
+      "hash": "0x4B139B2D"
+    },
+    "WEAPON_COUGAR": {
+      "id": "WEAPON_COUGAR",
+      "hash": "0x8D4BE52"
+    },
+    "WEAPON_ELECTRIC_FENCE": {
+      "id": "WEAPON_ELECTRIC_FENCE",
+      "hash": "0x92BD4EBB"
+    },
+    "VEHICLE_WEAPON_TURRET_BOXVILLE": {
+      "id": "VEHICLE_WEAPON_TURRET_BOXVILLE",
+      "hash": "0xB54F4918"
+    },
+    "VEHICLE_WEAPON_TURRET_TECHNICAL": {
+      "id": "VEHICLE_WEAPON_TURRET_TECHNICAL",
+      "hash": "0x7FD2EA0B"
+    },
+    "WEAPON_BOAR": {
+      "id": "WEAPON_BOAR",
+      "hash": "0x335CDADD"
+    },
+    "WEAPON_RUN_OVER_BY_CAR": {
+      "id": "WEAPON_RUN_OVER_BY_CAR",
+      "hash": "0xA36D413E"
+    },
+    "GADGET_NIGHTVISION": {
+      "id": "GADGET_NIGHTVISION",
+      "hash": "0xA720365C"
+    }
+  }
+}

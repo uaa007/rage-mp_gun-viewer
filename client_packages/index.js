@@ -1,0 +1,1 @@
+require("./gun-viewer-client.js");
